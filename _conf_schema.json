@@ -1,0 +1,12 @@
+﻿{
+    "start":{
+        "description": "激活文本",
+        "type": "string",
+        "hint": "音晶生成中"
+    },
+    "end":{
+        "description": "结束文本",
+        "type": "string",
+        "hint": "音晶爆炸"
+    }
+}
